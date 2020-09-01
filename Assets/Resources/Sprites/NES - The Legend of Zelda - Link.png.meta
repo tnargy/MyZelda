@@ -1,0 +1,3607 @@
+fileFormatVersion: 2
+guid: 8f41d83d27f945e4d83b040b73c9a225
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3077204939560398780
+    second: NES - The Legend of Zelda - Link_0
+  - first:
+      213: 5233760669231042498
+    second: NES - The Legend of Zelda - Link_1
+  - first:
+      213: 2405727169817658704
+    second: NES - The Legend of Zelda - Link_2
+  - first:
+      213: -958410427878140002
+    second: NES - The Legend of Zelda - Link_3
+  - first:
+      213: -1985907682473587587
+    second: NES - The Legend of Zelda - Link_4
+  - first:
+      213: -6555971625171280559
+    second: NES - The Legend of Zelda - Link_5
+  - first:
+      213: -7041732605745421743
+    second: NES - The Legend of Zelda - Link_6
+  - first:
+      213: 2616119048421872581
+    second: NES - The Legend of Zelda - Link_7
+  - first:
+      213: -419047882483922262
+    second: NES - The Legend of Zelda - Link_8
+  - first:
+      213: 5536934171709723832
+    second: NES - The Legend of Zelda - Link_9
+  - first:
+      213: -8442257289884889804
+    second: NES - The Legend of Zelda - Link_10
+  - first:
+      213: -5415325070554234200
+    second: NES - The Legend of Zelda - Link_11
+  - first:
+      213: 1622759247473369962
+    second: NES - The Legend of Zelda - Link_12
+  - first:
+      213: -8366210194354157929
+    second: NES - The Legend of Zelda - Link_13
+  - first:
+      213: 484519294337472631
+    second: NES - The Legend of Zelda - Link_14
+  - first:
+      213: -7259907714819886835
+    second: NES - The Legend of Zelda - Link_15
+  - first:
+      213: -8336946606735928238
+    second: NES - The Legend of Zelda - Link_16
+  - first:
+      213: 3996926954675945146
+    second: NES - The Legend of Zelda - Link_17
+  - first:
+      213: 5074271258450466174
+    second: NES - The Legend of Zelda - Link_18
+  - first:
+      213: -8194265816319370853
+    second: NES - The Legend of Zelda - Link_19
+  - first:
+      213: 7544809502986053046
+    second: NES - The Legend of Zelda - Link_20
+  - first:
+      213: 1457164711091057123
+    second: NES - The Legend of Zelda - Link_21
+  - first:
+      213: -3204854200491682236
+    second: NES - The Legend of Zelda - Link_22
+  - first:
+      213: 447541652594452225
+    second: NES - The Legend of Zelda - Link_23
+  - first:
+      213: 1735199721785975428
+    second: NES - The Legend of Zelda - Link_24
+  - first:
+      213: 5295250299600278508
+    second: NES - The Legend of Zelda - Link_25
+  - first:
+      213: -4237823380469510588
+    second: NES - The Legend of Zelda - Link_26
+  - first:
+      213: 5684685697245982964
+    second: NES - The Legend of Zelda - Link_27
+  - first:
+      213: -3243090579242723068
+    second: NES - The Legend of Zelda - Link_28
+  - first:
+      213: -1208088428793227982
+    second: NES - The Legend of Zelda - Link_29
+  - first:
+      213: 5338550203544722658
+    second: NES - The Legend of Zelda - Link_30
+  - first:
+      213: -4492897579151642917
+    second: NES - The Legend of Zelda - Link_31
+  - first:
+      213: 618292403881802683
+    second: NES - The Legend of Zelda - Link_32
+  - first:
+      213: -6974473129951990825
+    second: NES - The Legend of Zelda - Link_33
+  - first:
+      213: -3501963704182848192
+    second: NES - The Legend of Zelda - Link_34
+  - first:
+      213: -7375690991096002687
+    second: NES - The Legend of Zelda - Link_35
+  - first:
+      213: 7894124623507792549
+    second: NES - The Legend of Zelda - Link_36
+  - first:
+      213: -5024120166103173929
+    second: NES - The Legend of Zelda - Link_37
+  - first:
+      213: -5815619129487924766
+    second: NES - The Legend of Zelda - Link_38
+  - first:
+      213: 7690368971604051503
+    second: NES - The Legend of Zelda - Link_39
+  - first:
+      213: -8707120372595127492
+    second: NES - The Legend of Zelda - Link_40
+  - first:
+      213: -7733904911624809849
+    second: NES - The Legend of Zelda - Link_41
+  - first:
+      213: -805805485909454045
+    second: NES - The Legend of Zelda - Link_42
+  - first:
+      213: 4344506395645522563
+    second: NES - The Legend of Zelda - Link_43
+  - first:
+      213: -1261593571813354903
+    second: NES - The Legend of Zelda - Link_44
+  - first:
+      213: -6285309542928758922
+    second: NES - The Legend of Zelda - Link_45
+  - first:
+      213: 4539031198902977327
+    second: NES - The Legend of Zelda - Link_46
+  - first:
+      213: -4194691089962638650
+    second: NES - The Legend of Zelda - Link_47
+  - first:
+      213: 5058704386383730027
+    second: NES - The Legend of Zelda - Link_48
+  - first:
+      213: 2242507864491149220
+    second: NES - The Legend of Zelda - Link_49
+  - first:
+      213: -543023276480938474
+    second: NES - The Legend of Zelda - Link_50
+  - first:
+      213: -6994457759535035282
+    second: NES - The Legend of Zelda - Link_51
+  - first:
+      213: 718830796189754257
+    second: NES - The Legend of Zelda - Link_52
+  - first:
+      213: 8407033734542249541
+    second: NES - The Legend of Zelda - Link_53
+  - first:
+      213: -3277739898456768303
+    second: NES - The Legend of Zelda - Link_54
+  - first:
+      213: -9012472460105191862
+    second: NES - The Legend of Zelda - Link_55
+  - first:
+      213: 4004681693313946039
+    second: NES - The Legend of Zelda - Link_56
+  - first:
+      213: 3899241899926180840
+    second: NES - The Legend of Zelda - Link_57
+  - first:
+      213: 3719356415129189060
+    second: NES - The Legend of Zelda - Link_58
+  - first:
+      213: 4125240825686765388
+    second: NES - The Legend of Zelda - Link_59
+  - first:
+      213: -6774614102969403196
+    second: NES - The Legend of Zelda - Link_60
+  - first:
+      213: 3938710143712695259
+    second: NES - The Legend of Zelda - Link_61
+  - first:
+      213: -1848746423771532264
+    second: NES - The Legend of Zelda - Link_62
+  - first:
+      213: 2962929910507644122
+    second: NES - The Legend of Zelda - Link_63
+  - first:
+      213: 5169146874922216008
+    second: NES - The Legend of Zelda - Link_64
+  - first:
+      213: -6496856593717871563
+    second: NES - The Legend of Zelda - Link_65
+  - first:
+      213: -1198836601957121049
+    second: NES - The Legend of Zelda - Link_66
+  - first:
+      213: -1007636237128718442
+    second: NES - The Legend of Zelda - Link_67
+  - first:
+      213: 7323437632805012350
+    second: NES - The Legend of Zelda - Link_68
+  - first:
+      213: 4568193914429023146
+    second: NES - The Legend of Zelda - Link_69
+  - first:
+      213: -2653254894502949763
+    second: NES - The Legend of Zelda - Link_70
+  - first:
+      213: 3620014512041648057
+    second: NES - The Legend of Zelda - Link_71
+  - first:
+      213: 8210924252262526478
+    second: NES - The Legend of Zelda - Link_72
+  - first:
+      213: 4851635934522626218
+    second: NES - The Legend of Zelda - Link_73
+  - first:
+      213: 5764263317878569051
+    second: NES - The Legend of Zelda - Link_74
+  - first:
+      213: 208931709182677317
+    second: NES - The Legend of Zelda - Link_75
+  - first:
+      213: -6927883305784438492
+    second: NES - The Legend of Zelda - Link_76
+  - first:
+      213: -5610681273028819300
+    second: NES - The Legend of Zelda - Link_77
+  - first:
+      213: 8050307049567519778
+    second: NES - The Legend of Zelda - Link_78
+  - first:
+      213: 597189853376710071
+    second: NES - The Legend of Zelda - Link_79
+  - first:
+      213: 5107535492569995139
+    second: NES - The Legend of Zelda - Link_80
+  - first:
+      213: 7180319618193001980
+    second: NES - The Legend of Zelda - Link_81
+  - first:
+      213: 6622403254014923239
+    second: NES - The Legend of Zelda - Link_82
+  - first:
+      213: 265058439846900435
+    second: NES - The Legend of Zelda - Link_83
+  - first:
+      213: -1590621951635589421
+    second: NES - The Legend of Zelda - Link_84
+  - first:
+      213: 1131013810863111707
+    second: NES - The Legend of Zelda - Link_85
+  - first:
+      213: -8540444046762341058
+    second: NES - The Legend of Zelda - Link_86
+  - first:
+      213: 2478526626485483331
+    second: NES - The Legend of Zelda - Link_87
+  - first:
+      213: -2118082248328287930
+    second: NES - The Legend of Zelda - Link_88
+  - first:
+      213: -8195747519982765475
+    second: NES - The Legend of Zelda - Link_89
+  - first:
+      213: -3556870447841212417
+    second: NES - The Legend of Zelda - Link_90
+  - first:
+      213: 8690374996936506101
+    second: NES - The Legend of Zelda - Link_91
+  - first:
+      213: 6315496874192786455
+    second: NES - The Legend of Zelda - Link_92
+  - first:
+      213: -9131209835890926278
+    second: NES - The Legend of Zelda - Link_93
+  - first:
+      213: -3992576283036517425
+    second: NES - The Legend of Zelda - Link_94
+  - first:
+      213: -3572383782115361847
+    second: NES - The Legend of Zelda - Link_95
+  - first:
+      213: 4968212284634084244
+    second: NES - The Legend of Zelda - Link_96
+  - first:
+      213: 8896156573913731906
+    second: NES - The Legend of Zelda - Link_97
+  - first:
+      213: 4353210322216734437
+    second: NES - The Legend of Zelda - Link_98
+  - first:
+      213: -6762072538114383337
+    second: NES - The Legend of Zelda - Link_99
+  - first:
+      213: -8167249068034370525
+    second: NES - The Legend of Zelda - Link_100
+  - first:
+      213: -284884060659721088
+    second: NES - The Legend of Zelda - Link_101
+  - first:
+      213: -1910310546305132891
+    second: NES - The Legend of Zelda - Link_102
+  - first:
+      213: 4814510775196807885
+    second: NES - The Legend of Zelda - Link_103
+  - first:
+      213: -1368163604452647647
+    second: NES - The Legend of Zelda - Link_104
+  - first:
+      213: -152153076620982369
+    second: NES - The Legend of Zelda - Link_105
+  - first:
+      213: 4726427138975249323
+    second: NES - The Legend of Zelda - Link_106
+  - first:
+      213: -1454164830706707754
+    second: NES - The Legend of Zelda - Link_107
+  - first:
+      213: 7931625106404251685
+    second: NES - The Legend of Zelda - Link_108
+  - first:
+      213: -5662504566642244137
+    second: NES - The Legend of Zelda - Link_109
+  - first:
+      213: -8624897199793525752
+    second: NES - The Legend of Zelda - Link_110
+  - first:
+      213: 317138888852809205
+    second: NES - The Legend of Zelda - Link_111
+  - first:
+      213: -1456308973816361347
+    second: NES - The Legend of Zelda - Link_112
+  - first:
+      213: 8362199530456124772
+    second: NES - The Legend of Zelda - Link_113
+  - first:
+      213: 7076441524894618117
+    second: NES - The Legend of Zelda - Link_114
+  - first:
+      213: 260783338981040190
+    second: NES - The Legend of Zelda - Link_115
+  - first:
+      213: -4255333158317000105
+    second: NES - The Legend of Zelda - Link_116
+  - first:
+      213: -2155361053201065309
+    second: NES - The Legend of Zelda - Link_117
+  - first:
+      213: -4984072014980394281
+    second: NES - The Legend of Zelda - Link_118
+  - first:
+      213: -1579841633062812053
+    second: NES - The Legend of Zelda - Link_119
+  - first:
+      213: -1872079752622019438
+    second: NES - The Legend of Zelda - Link_120
+  - first:
+      213: -3673539591891344484
+    second: NES - The Legend of Zelda - Link_121
+  - first:
+      213: 7743725719685071171
+    second: NES - The Legend of Zelda - Link_122
+  - first:
+      213: -7977487319274467244
+    second: NES - The Legend of Zelda - Link_123
+  - first:
+      213: 4447348948284260666
+    second: NES - The Legend of Zelda - Link_124
+  - first:
+      213: -1277610930127394266
+    second: NES - The Legend of Zelda - Link_125
+  - first:
+      213: 8797278953144788674
+    second: NES - The Legend of Zelda - Link_126
+  - first:
+      213: -3563956111230570821
+    second: NES - The Legend of Zelda - Link_127
+  - first:
+      213: 106450156025909848
+    second: NES - The Legend of Zelda - Link_128
+  - first:
+      213: -9036127752792698642
+    second: NES - The Legend of Zelda - Link_129
+  - first:
+      213: 2027414604851339410
+    second: NES - The Legend of Zelda - Link_130
+  - first:
+      213: 4883304657947180992
+    second: NES - The Legend of Zelda - Link_131
+  - first:
+      213: 897636717118947914
+    second: NES - The Legend of Zelda - Link_132
+  - first:
+      213: -1902052685789685182
+    second: NES - The Legend of Zelda - Link_133
+  - first:
+      213: 7224964928599653318
+    second: NES - The Legend of Zelda - Link_134
+  - first:
+      213: -4180028614821528133
+    second: NES - The Legend of Zelda - Link_135
+  - first:
+      213: 3206555951027084010
+    second: NES - The Legend of Zelda - Link_136
+  - first:
+      213: 481205490950201876
+    second: NES - The Legend of Zelda - Link_137
+  - first:
+      213: -6124565219855656723
+    second: NES - The Legend of Zelda - Link_138
+  - first:
+      213: -7539070266891614615
+    second: NES - The Legend of Zelda - Link_139
+  - first:
+      213: 5094959700742944074
+    second: NES - The Legend of Zelda - Link_140
+  - first:
+      213: -4775403686738544636
+    second: NES - The Legend of Zelda - Link_141
+  - first:
+      213: 8246599071424084267
+    second: NES - The Legend of Zelda - Link_142
+  - first:
+      213: 1353454534083773238
+    second: NES - The Legend of Zelda - Link_143
+  - first:
+      213: -5248156966632318692
+    second: NES - The Legend of Zelda - Link_144
+  - first:
+      213: -2893770685499674148
+    second: NES - The Legend of Zelda - Link_145
+  - first:
+      213: 3880543371120960551
+    second: NES - The Legend of Zelda - Link_146
+  - first:
+      213: 5666835088368032900
+    second: NES - The Legend of Zelda - Link_147
+  - first:
+      213: -1671092061671569772
+    second: NES - The Legend of Zelda - Link_148
+  - first:
+      213: 8183897299517559484
+    second: NES - The Legend of Zelda - Link_83
+  - first:
+      213: -3814389075935477092
+    second: NES - The Legend of Zelda - Link_85
+  - first:
+      213: 4885367976972641109
+    second: NES - The Legend of Zelda - Link_87
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Link_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 566
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbf239bb69d64ba20800000000000000
+      internalID: 3077204939560398780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Link_1
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 566
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cf4de8599d02a840800000000000000
+      internalID: 5233760669231042498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Link_2
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 566
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 055cc776d1cd26120800000000000000
+      internalID: 2405727169817658704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Link_3
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 566
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e971b413bca03b2f0800000000000000
+      internalID: -958410427878140002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Link_4
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 566
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7c417d0c73a074e0800000000000000
+      internalID: -1985907682473587587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Link_5
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 566
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15d102cba828405a0800000000000000
+      internalID: -6555971625171280559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Link_6
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 566
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1522247f08db64e90800000000000000
+      internalID: -7041732605745421743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Link_7
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 566
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c3915be9625e4420800000000000000
+      internalID: 2616119048421872581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Link_8
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 566
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaa8aaccb2e3f2af0800000000000000
+      internalID: -419047882483922262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Link_9
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 566
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b4da711b4427dc40800000000000000
+      internalID: 5536934171709723832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Link_10
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 566
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43d85fd49b317da80800000000000000
+      internalID: -8442257289884889804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Link_11
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 566
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a2095a3a86e8d4b0800000000000000
+      internalID: -5415325070554234200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Link_12
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 566
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6361a510f2358610800000000000000
+      internalID: 1622759247473369962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Link_13
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 566
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 796c441872045eb80800000000000000
+      internalID: -8366210194354157929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Link_14
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 471
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 778dec92bbb59b600800000000000000
+      internalID: 484519294337472631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Link_15
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 480
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d01fa04e560af3b90800000000000000
+      internalID: -7259907714819886835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Link_16
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 488
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2545b127b373d4c80800000000000000
+      internalID: -8336946606735928238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Link_17
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 494
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abeb4ae73efe77730800000000000000
+      internalID: 3996926954675945146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Link_18
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 479
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e751aed23de6b6640800000000000000
+      internalID: 5074271258450466174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Link_19
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 487
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b995827b7ae184e80800000000000000
+      internalID: -8194265816319370853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Link_20
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 492
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b5a973d44c84b860800000000000000
+      internalID: 7544809502986053046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Link_21
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 479
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e131d79593e83410800000000000000
+      internalID: 1457164711091057123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Link_22
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 487
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44656cea5121683d0800000000000000
+      internalID: -3204854200491682236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Link_23
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 493
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 107651903ccf53600800000000000000
+      internalID: 447541652594452225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Link_24
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 479
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 482e86714faa41810800000000000000
+      internalID: 1735199721785975428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Link_25
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 487
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce3947097128c7940800000000000000
+      internalID: 5295250299600278508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Link_26
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 434
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44e0542a61a3035c0800000000000000
+      internalID: -4237823380469510588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Link_27
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 432
+        width: 54
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f0371cd58f04ee40800000000000000
+      internalID: 5684685697245982964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Link_28
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 432
+        width: 47
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40952d10d4a3ef2d0800000000000000
+      internalID: -3243090579242723068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Link_29
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 432
+        width: 38
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 235158889f10c3fe0800000000000000
+      internalID: -1208088428793227982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Link_30
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 434
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ec5fd11027561a40800000000000000
+      internalID: 5338550203544722658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Link_31
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 432
+        width: 55
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bde2476c47506a1c0800000000000000
+      internalID: -4492897579151642917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Link_32
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 432
+        width: 49
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbb72bc5aad949800800000000000000
+      internalID: 618292403881802683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Link_33
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 432
+        width: 39
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7db64b104a1b53f90800000000000000
+      internalID: -6974473129951990825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Link_34
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 434
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 045ced3b096866fc0800000000000000
+      internalID: -3501963704182848192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Link_35
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 432
+        width: 55
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1878ca62f1844a990800000000000000
+      internalID: -7375690991096002687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Link_36
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 432
+        width: 49
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a2a8dc25809d8d60800000000000000
+      internalID: 7894124623507792549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Link_37
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 432
+        width: 39
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d43b8ee35db64ab0800000000000000
+      internalID: -5024120166103173929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Link_38
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 434
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e1e7e5d635ca4fa0800000000000000
+      internalID: -5815619129487924766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Link_39
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 432
+        width: 55
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f26452895dda9ba60800000000000000
+      internalID: 7690368971604051503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Link_40
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 432
+        width: 48
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3b86e647281a2780800000000000000
+      internalID: -8707120372595127492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Link_41
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 432
+        width: 39
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78254f77576aba490800000000000000
+      internalID: -7733904911624809849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Link_42
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 371
+        width: 33
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3235e4e0e2431d4f0800000000000000
+      internalID: -805805485909454045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Link_43
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 370
+        width: 26
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3823dd47c89ca4c30800000000000000
+      internalID: 4344506395645522563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Link_44
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 370
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9621625a45bed7ee0800000000000000
+      internalID: -1261593571813354903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Link_45
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 370
+        width: 34
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 677cb5e854816c8a0800000000000000
+      internalID: -6285309542928758922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Link_46
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 370
+        width: 26
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f23070b93d0edfe30800000000000000
+      internalID: 4539031198902977327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Link_47
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 370
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c2e7489da679c5c0800000000000000
+      internalID: -4194691089962638650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Link_48
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 370
+        width: 33
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b65dc1656d0243640800000000000000
+      internalID: 5058704386383730027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Link_49
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 370
+        width: 26
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a7c30d750dfe1f10800000000000000
+      internalID: 2242507864491149220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Link_50
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 370
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61eb594053bc678f0800000000000000
+      internalID: -543023276480938474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Link_51
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 372
+        width: 33
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6c8076d9b1beee90800000000000000
+      internalID: -6994457759535035282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Link_52
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 370
+        width: 26
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1936084fcccc9f900800000000000000
+      internalID: 718830796189754257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Link_53
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 370
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54ecd12a3a8cba470800000000000000
+      internalID: 8407033734542249541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Link_54
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 318
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d00c56bde02382d0800000000000000
+      internalID: -3277739898456768303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Link_55
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 326
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4e60733c044de280800000000000000
+      internalID: -9012472460105191862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Link_56
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 330
+        width: 46
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b1dc7848cc739730800000000000000
+      internalID: 4004681693313946039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Link_57
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 330
+        width: 38
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e35b6259d3ec1630800000000000000
+      internalID: 3899241899926180840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Link_58
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 317
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ca78dc14fecd9330800000000000000
+      internalID: 3719356415129189060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Link_59
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 325
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4faffbacaccf3930800000000000000
+      internalID: 4125240825686765388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Link_60
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 330
+        width: 48
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c83826ed5cbbf1a0800000000000000
+      internalID: -6774614102969403196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Link_61
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 330
+        width: 39
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd3193de10c19a630800000000000000
+      internalID: 3938710143712695259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Link_62
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 317
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 814f2533ceee756e0800000000000000
+      internalID: -1848746423771532264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Link_63
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 325
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad4203a2e017e1920800000000000000
+      internalID: 2962929910507644122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Link_64
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 330
+        width: 48
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84a2f8702bf7cb740800000000000000
+      internalID: 5169146874922216008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Link_65
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 330
+        width: 39
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53cbace895786d5a0800000000000000
+      internalID: -6496856593717871563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Link_66
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 317
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e30c945670ec5fe0800000000000000
+      internalID: -1198836601957121049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Link_67
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 325
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 697a1275e282402f0800000000000000
+      internalID: -1007636237128718442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Link_68
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 330
+        width: 47
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e73021ec9b312a560800000000000000
+      internalID: 7323437632805012350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Link_69
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 330
+        width: 39
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa3a4ae692c756f30800000000000000
+      internalID: 4568193914429023146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Link_70
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 280
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7cc5922bbebd2bd0800000000000000
+      internalID: -2653254894502949763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Link_71
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 287
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bf5000e400ec3230800000000000000
+      internalID: 3620014512041648057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Link_72
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 285
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0e6fb5aa1013f170800000000000000
+      internalID: 8210924252262526478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Link_73
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 279
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa0ddb86d29745340800000000000000
+      internalID: 4851635934522626218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Link_74
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 285
+        width: 52
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5877fd72f6ceff40800000000000000
+      internalID: 5764263317878569051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Link_75
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 280
+        width: 15
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5411624584646e200800000000000000
+      internalID: 208931709182677317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Link_76
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 285
+        width: 51
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4211c51c6d63bdf90800000000000000
+      internalID: -6927883305784438492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Link_77
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 279
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c964e2ddb1bd222b0800000000000000
+      internalID: -5610681273028819300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Link_78
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 287
+        width: 33
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2248b46fb9f68bf60800000000000000
+      internalID: 8050307049567519778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Link_79
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 285
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b58cf1f105a94800800000000000000
+      internalID: 597189853376710071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Link_80
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 279
+        width: 10
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3879558387c91e640800000000000000
+      internalID: 5107535492569995139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Link_81
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 291
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfd892856ae95a360800000000000000
+      internalID: 7180319618193001980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Link_82
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 277
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e153fa2ca087eb50800000000000000
+      internalID: 6622403254014923239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Link_84
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 277
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d672d033c9fce9e0800000000000000
+      internalID: -1590621951635589421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Link_86
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 277
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3d81a0836f3a7980800000000000000
+      internalID: -8540444046762341058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Link_88
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 277
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 649e45fca6f0b92e0800000000000000
+      internalID: -2118082248328287930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Link_91
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 280
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fa3651240a6a9870800000000000000
+      internalID: 8690374996936506101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Link_92
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 278
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 714d95632f625a750800000000000000
+      internalID: 6315496874192786455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Link_95
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 279
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cbb5a1a0e75c6ec0800000000000000
+      internalID: -3572383782115361847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Link_99
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 279
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 712a4448ada4822a0800000000000000
+      internalID: -6762072538114383337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Link_102
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 218
+        width: 15
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a6dccceda63d75e0800000000000000
+      internalID: -1910310546305132891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Link_103
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 217
+        width: 12
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc275eaaa0490d240800000000000000
+      internalID: 4814510775196807885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Link_104
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 225
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12d5bf9537e430de0800000000000000
+      internalID: -1368163604452647647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Link_105
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 217
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f97068c359173edf0800000000000000
+      internalID: -152153076620982369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Link_108
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 218
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5289bceb20bc21e60800000000000000
+      internalID: 7931625106404251685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Link_109
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 217
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d5034e091eba61b0800000000000000
+      internalID: -5662504566642244137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Link_110
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 217
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80cab0681b53e4880800000000000000
+      internalID: -8624897199793525752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Link_111
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 217
+        width: 68
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f5a88e9324b66400800000000000000
+      internalID: 317138888852809205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Link_112
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 217
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7e467444b62acbe0800000000000000
+      internalID: -1456308973816361347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Link_113
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 217
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46d86c90b208c0470800000000000000
+      internalID: 8362199530456124772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Link_114
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 229
+        width: 33
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 502da250312943260800000000000000
+      internalID: 7076441524894618117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Link_115
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 225
+        width: 52
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e302e4ba01d7e9300800000000000000
+      internalID: 260783338981040190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Link_116
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 225
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75af299c90502f4c0800000000000000
+      internalID: -4255333158317000105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Link_117
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 227
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aa1d3daa8e9612e0800000000000000
+      internalID: -2155361053201065309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Link_118
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 225
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d2d02cb8e405dab0800000000000000
+      internalID: -4984072014980394281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Link_119
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 225
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b660be3b766431ae0800000000000000
+      internalID: -1579841633062812053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Link_120
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 225
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29c63c932690506e0800000000000000
+      internalID: -1872079752622019438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Link_121
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 214
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c93abf45437f40dc0800000000000000
+      internalID: -3673539591891344484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Link_124
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 124
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a31c0be2e4828bd30800000000000000
+      internalID: 4447348948284260666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Link_125
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 90
+        width: 32
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62aa99cc0a3054ee0800000000000000
+      internalID: -1277610930127394266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Link_126
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 124
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c627301996361a70800000000000000
+      internalID: 8797278953144788674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Link_127
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 140
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbee40bacc84a8ec0800000000000000
+      internalID: -3563956111230570821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Link_128
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 140
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85295385adf2a7100800000000000000
+      internalID: 106450156025909848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Link_129
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 90
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee01ebd2fa9399280800000000000000
+      internalID: -9036127752792698642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Link_130
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 90
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2906a9667d2d22c10800000000000000
+      internalID: 2027414604851339410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Link_131
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 115
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cfb3faa6bbf4c340800000000000000
+      internalID: 4883304657947180992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Link_132
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 71
+        width: 32
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a42093d96db057c00800000000000000
+      internalID: 897636717118947914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Link_133
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 105
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24a9d67e82d8a95e0800000000000000
+      internalID: -1902052685789685182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Link_134
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 105
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cb76d3b25b344460800000000000000
+      internalID: 7224964928599653318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Link_135
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 105
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbd389e1f1e8df5c0800000000000000
+      internalID: -4180028614821528133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Link_136
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 105
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aea526df5a9ff7c20800000000000000
+      internalID: 3206555951027084010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Link_137
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 105
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 412ed0038d59da600800000000000000
+      internalID: 481205490950201876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Link_138
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 105
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de89ac2c16c210ba0800000000000000
+      internalID: -6124565219855656723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Link_139
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 71
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96647353987df5790800000000000000
+      internalID: -7539070266891614615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Link_140
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 138
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a45b6b38adee4b640800000000000000
+      internalID: 5094959700742944074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Link_141
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 105
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 408bbd8e5ab5abdb0800000000000000
+      internalID: -4775403686738544636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Link_142
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 72
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b297c41c92ec17270800000000000000
+      internalID: 8246599071424084267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Link_143
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 104
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63384b35abf68c210800000000000000
+      internalID: 1353454534083773238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Link_144
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 71
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1993667b0dca27b0800000000000000
+      internalID: -5248156966632318692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Link_145
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 72
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd17a55b4e247d7d0800000000000000
+      internalID: -2893770685499674148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Link_146
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 73
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7246923d2a57ad530800000000000000
+      internalID: 3880543371120960551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Link_147
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 105
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48c55ea1d74a4ae40800000000000000
+      internalID: 5666835088368032900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Link_148
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 71
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 496471daf961fc8e0800000000000000
+      internalID: -1671092061671569772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Link_83
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 216
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb2d508db3b039170800000000000000
+      internalID: 8183897299517559484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Link_85
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 221
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c924cbd4851901bc0800000000000000
+      internalID: -3814389075935477092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Link_87
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 223
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 553e5809a405cc340800000000000000
+      internalID: 4885367976972641109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Link_89
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 566
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5a73a2bd0bd24e80800000000000000
+      internalID: -8195747519982765475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Link_90
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 470
+        width: 33
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff7075c3c2573aec0800000000000000
+      internalID: -3556870447841212417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Link_93
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 470
+        width: 32
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3d1b22980d674180800000000000000
+      internalID: -9131209835890926278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Link_94
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 471
+        width: 34
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcb75fe26058798c0800000000000000
+      internalID: -3992576283036517425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Link_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 494
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 493b85a00c2a2f440800000000000000
+      internalID: 4968212284634084244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Link_97
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 370
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2435266254f757b70800000000000000
+      internalID: 8896156573913731906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Link_98
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 370
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eeca4849b5b96c30800000000000000
+      internalID: 4353210322216734437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Link_100
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 369
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 324dbab9e3a18ae80800000000000000
+      internalID: -8167249068034370525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Link_101
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 370
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08cd43ac473eb0cf0800000000000000
+      internalID: -284884060659721088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
