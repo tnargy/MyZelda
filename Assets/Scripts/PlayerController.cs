@@ -1,5 +1,4 @@
 ﻿using System.Collections;
-using UnityEngine.InputSystem;
 using UnityEngine;
 using UnityEngine.InputSystem.Interactions;
 
@@ -7,35 +6,47 @@ namespace GandyLabs.MyZelda
 {
     public class PlayerController : MonoBehaviour
     {
-        public InputAction moveAction;
-        float moveSpeed;
+        public float moveSpeed;
+        PlayerControls playerControls;
+        Animator animator;
+        Vector2 lastDirection;
 
+        private void Awake()
+        {
+            playerControls = new PlayerControls();
+            animator = GetComponentInChildren<Animator>();
+            lastDirection = new Vector2(0,1);
+        }
         private void OnEnable()
         {
-            moveAction.Enable();
+            playerControls.Enable();
         }
 
         private void OnDisable()
         {
-            moveAction.Disable();
+            playerControls.Disable();
         }
 
         private void Update()
         {
-            var move = moveAction.ReadValue<Vector2>();
+            var direction = playerControls.Basic.Move.ReadValue<Vector2>();
 
-            Move(move);
+            Move(direction);
         }
 
         private void Move(Vector2 direction)
         {
-            if (direction.sqrMagnitude < 0.01)
-                return;
-            var scaledMoveSpeed = moveSpeed * Time.deltaTime;
-            // For simplicity's sake, we just keep movement in a single plane here. Rotate
-            // direction according to world Y rotation of player.
-            var move = Quaternion.Euler(0, transform.eulerAngles.y, 0) * new Vector3(direction.x, 0, direction.y);
-            transform.position += move * scaledMoveSpeed;
+            if (direction.sqrMagnitude > 0.01f)
+            {
+                var scaledMoveSpeed = moveSpeed * Time.deltaTime;
+                var move = new Vector3(direction.x, direction.y, 0);
+                transform.position += move * scaledMoveSpeed;
+                lastDirection = direction;
+            }
+
+            animator.SetFloat("Horizontal", lastDirection.x);
+            animator.SetFloat("Vertical", lastDirection.y);
+            animator.SetFloat("Speed", direction.sqrMagnitude);
         }
     }
 }
