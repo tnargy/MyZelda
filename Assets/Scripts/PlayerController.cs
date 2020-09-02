@@ -1,14 +1,15 @@
 ﻿using System.Collections;
 using UnityEngine;
+using UnityEngine.InputSystem;
 using UnityEngine.InputSystem.Interactions;
 
 namespace GandyLabs.MyZelda
 {
     public class PlayerController : MonoBehaviour
     {
-        public float moveSpeed;
         PlayerControls playerControls;
         Animator animator;
+        float moveSpeed =1;
         Vector2 lastDirection;
 
         private void Awake()
@@ -16,7 +17,16 @@ namespace GandyLabs.MyZelda
             playerControls = new PlayerControls();
             animator = GetComponentInChildren<Animator>();
             lastDirection = new Vector2(0,1);
+
+            playerControls.Basic.AttackA.performed += _ => { Attack("A"); };
+            playerControls.Basic.AttackB.performed += _ => { Attack("B"); };
         }
+
+        private void Attack(string button)
+        {
+            Debug.Log($"Attacked with {button}");
+        }
+
         private void OnEnable()
         {
             playerControls.Enable();
