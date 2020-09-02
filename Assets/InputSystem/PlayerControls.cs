@@ -15,14 +15,14 @@ public class @PlayerControls : IInputActionCollection, IDisposable
     ""name"": ""PlayerControls"",
     ""maps"": [
         {
-            ""name"": ""Keyboard/Mouse"",
+            ""name"": ""Basic"",
             ""id"": ""003dd4e7-1545-4fca-a4ec-19006e4c79a9"",
             ""actions"": [
                 {
                     ""name"": ""Move"",
-                    ""type"": ""Button"",
+                    ""type"": ""Value"",
                     ""id"": ""cb818e30-551e-45d1-83f5-87f8ea90eba7"",
-                    ""expectedControlType"": ""Button"",
+                    ""expectedControlType"": ""Vector2"",
                     ""processors"": """",
                     ""interactions"": """"
                 }
@@ -143,9 +143,9 @@ public class @PlayerControls : IInputActionCollection, IDisposable
     ],
     ""controlSchemes"": []
 }");
-        // Keyboard/Mouse
-        m_KeyboardMouse = asset.FindActionMap("Keyboard/Mouse", throwIfNotFound: true);
-        m_KeyboardMouse_Move = m_KeyboardMouse.FindAction("Move", throwIfNotFound: true);
+        // Basic
+        m_Basic = asset.FindActionMap("Basic", throwIfNotFound: true);
+        m_Basic_Move = m_Basic.FindAction("Move", throwIfNotFound: true);
     }
 
     public void Dispose()
@@ -192,29 +192,29 @@ public class @PlayerControls : IInputActionCollection, IDisposable
         asset.Disable();
     }
 
-    // Keyboard/Mouse
-    private readonly InputActionMap m_KeyboardMouse;
-    private IKeyboardMouseActions m_KeyboardMouseActionsCallbackInterface;
-    private readonly InputAction m_KeyboardMouse_Move;
-    public struct KeyboardMouseActions
+    // Basic
+    private readonly InputActionMap m_Basic;
+    private IBasicActions m_BasicActionsCallbackInterface;
+    private readonly InputAction m_Basic_Move;
+    public struct BasicActions
     {
         private @PlayerControls m_Wrapper;
-        public KeyboardMouseActions(@PlayerControls wrapper) { m_Wrapper = wrapper; }
-        public InputAction @Move => m_Wrapper.m_KeyboardMouse_Move;
-        public InputActionMap Get() { return m_Wrapper.m_KeyboardMouse; }
+        public BasicActions(@PlayerControls wrapper) { m_Wrapper = wrapper; }
+        public InputAction @Move => m_Wrapper.m_Basic_Move;
+        public InputActionMap Get() { return m_Wrapper.m_Basic; }
         public void Enable() { Get().Enable(); }
         public void Disable() { Get().Disable(); }
         public bool enabled => Get().enabled;
-        public static implicit operator InputActionMap(KeyboardMouseActions set) { return set.Get(); }
-        public void SetCallbacks(IKeyboardMouseActions instance)
+        public static implicit operator InputActionMap(BasicActions set) { return set.Get(); }
+        public void SetCallbacks(IBasicActions instance)
         {
-            if (m_Wrapper.m_KeyboardMouseActionsCallbackInterface != null)
+            if (m_Wrapper.m_BasicActionsCallbackInterface != null)
             {
-                @Move.started -= m_Wrapper.m_KeyboardMouseActionsCallbackInterface.OnMove;
-                @Move.performed -= m_Wrapper.m_KeyboardMouseActionsCallbackInterface.OnMove;
-                @Move.canceled -= m_Wrapper.m_KeyboardMouseActionsCallbackInterface.OnMove;
+                @Move.started -= m_Wrapper.m_BasicActionsCallbackInterface.OnMove;
+                @Move.performed -= m_Wrapper.m_BasicActionsCallbackInterface.OnMove;
+                @Move.canceled -= m_Wrapper.m_BasicActionsCallbackInterface.OnMove;
             }
-            m_Wrapper.m_KeyboardMouseActionsCallbackInterface = instance;
+            m_Wrapper.m_BasicActionsCallbackInterface = instance;
             if (instance != null)
             {
                 @Move.started += instance.OnMove;
@@ -223,8 +223,8 @@ public class @PlayerControls : IInputActionCollection, IDisposable
             }
         }
     }
-    public KeyboardMouseActions @KeyboardMouse => new KeyboardMouseActions(this);
-    public interface IKeyboardMouseActions
+    public BasicActions @Basic => new BasicActions(this);
+    public interface IBasicActions
     {
         void OnMove(InputAction.CallbackContext context);
     }

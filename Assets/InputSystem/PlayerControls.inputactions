@@ -2,14 +2,14 @@
     "name": "PlayerControls",
     "maps": [
         {
-            "name": "Keyboard/Mouse",
+            "name": "Basic",
             "id": "003dd4e7-1545-4fca-a4ec-19006e4c79a9",
             "actions": [
                 {
                     "name": "Move",
-                    "type": "Button",
+                    "type": "Value",
                     "id": "cb818e30-551e-45d1-83f5-87f8ea90eba7",
-                    "expectedControlType": "Button",
+                    "expectedControlType": "Vector2",
                     "processors": "",
                     "interactions": ""
                 }
