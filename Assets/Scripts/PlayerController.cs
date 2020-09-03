@@ -1,7 +1,4 @@
-﻿using System.Collections;
-using UnityEngine;
-using UnityEngine.InputSystem;
-using UnityEngine.InputSystem.Interactions;
+﻿using UnityEngine;
 
 namespace GandyLabs.MyZelda
 {
@@ -9,14 +6,14 @@ namespace GandyLabs.MyZelda
     {
         PlayerControls playerControls;
         Animator animator;
-        float moveSpeed =1;
+        float moveSpeed = 1;
         Vector2 lastDirection;
 
         private void Awake()
         {
             playerControls = new PlayerControls();
             animator = GetComponentInChildren<Animator>();
-            lastDirection = new Vector2(0,1);
+            lastDirection = new Vector2(0, 1);
 
             playerControls.Basic.AttackA.performed += _ => { Attack("A"); };
             playerControls.Basic.AttackB.performed += _ => { Attack("B"); };
