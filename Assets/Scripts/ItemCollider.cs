@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-public class Item : MonoBehaviour
+public class ItemCollider : MonoBehaviour
 {
     private void OnTriggerEnter2D(Collider2D other) {
         if (other.CompareTag("Player"))
