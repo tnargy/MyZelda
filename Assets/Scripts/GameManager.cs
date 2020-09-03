@@ -5,6 +5,8 @@ namespace GandyLabs.MyZelda
 {
     public class GameManager : MonoBehaviour
     {
+        public bool isPaused = false;
+
         public static GameManager Instance { get; private set; }
         private void Awake() 
         {

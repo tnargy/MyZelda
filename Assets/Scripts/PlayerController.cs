@@ -36,7 +36,8 @@ namespace GandyLabs.MyZelda
         private void Update()
         {
             var direction = playerControls.Basic.Move.ReadValue<Vector2>();
-            Move(direction);
+            if (!GameManager.Instance.isPaused)
+                Move(direction);
         }
 
         private void LateUpdate() {
