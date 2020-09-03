@@ -8,6 +8,7 @@ namespace GandyLabs.MyZelda
         Animator animator;
         float moveSpeed = 1;
         Vector2 lastDirection;
+        public VectorValue startingPosition;
 
         private void Awake()
         {
@@ -24,21 +25,29 @@ namespace GandyLabs.MyZelda
             Debug.Log($"Attacked with {button}");
         }
 
-        private void OnEnable()
-        {
-            playerControls.Enable();
-        }
+        private void OnEnable() => playerControls.Enable();
+        private void OnDisable() => playerControls.Disable();
 
-        private void OnDisable()
-        {
-            playerControls.Disable();
+        private void Start() {
+            if (startingPosition.initValue != Vector3.zero)
+                transform.position = startingPosition.initValue;
         }
 
         private void Update()
         {
             var direction = playerControls.Basic.Move.ReadValue<Vector2>();
-
             Move(direction);
+        }
+
+        private void LateUpdate() {
+            Vector3 pos = Camera.main.WorldToViewportPoint(transform.position);
+
+            Vector3 moveCamX = new Vector3(2.6f, 0, 0);
+            Vector3 moveCamY = new Vector3(0, 1.75f, 0);
+            if(pos.x < 0.0) Camera.main.transform.position -= moveCamX;
+            if(1.0 < pos.x) Camera.main.transform.position += moveCamX;
+            if(pos.y < 0.0) Camera.main.transform.position -= moveCamY;
+            if(0.9 < pos.y) Camera.main.transform.position += moveCamY;
         }
 
         private void Move(Vector2 direction)

@@ -1,18 +1,22 @@
-﻿using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
 using UnityEngine.SceneManagement;
 
-public class GameManager : MonoBehaviour
+namespace GandyLabs.MyZelda
 {
-    public static GameManager Instance { get; private set; }
-    private void Awake() => Instance = this;
-    
-    public void LoadScene(string sceneName, Vector2 spawnLocation)
+    public class GameManager : MonoBehaviour
     {
-        SceneManager.LoadScene(sceneName);
-        if (spawnLocation.Equals(Vector2.zero))
-            return;
-            
-        GameObject.FindGameObjectWithTag("Player").transform.position = spawnLocation;
+        public static GameManager Instance { get; private set; }
+        private void Awake() 
+        {
+            if (Instance == null)
+                Instance = this;
+            else
+                Destroy(this.gameObject);
+        }
+
+        public void LoadScene(string sceneName)
+        {
+            SceneManager.LoadScene(sceneName);
+        }
     }
 }

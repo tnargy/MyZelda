@@ -1,15 +1,21 @@
 ﻿using UnityEngine;
 
-public class Door : MonoBehaviour
+namespace GandyLabs.MyZelda
 {
-    public string SceneToLoad;
-    public Vector2 spawnLocation;
-
-    private void OnTriggerEnter2D(Collider2D collision)
+    public class Door : MonoBehaviour
     {
-        if (collision.CompareTag("Player"))
+        public VectorValue playerPosition;
+        public Vector2 loadPosition;
+
+        public string SceneToLoad;
+
+        private void OnTriggerEnter2D(Collider2D collision)
         {
-            GameManager.Instance.LoadScene(SceneToLoad, spawnLocation);
+            if (collision.CompareTag("Player"))
+            {
+                playerPosition.initValue = loadPosition;
+                GameManager.Instance.LoadScene(SceneToLoad);
+            }
         }
     }
 }
