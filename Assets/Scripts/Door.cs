@@ -3,21 +3,13 @@
 public class Door : MonoBehaviour
 {
     public string SceneToLoad;
+    public Vector2 spawnLocation;
 
-    private void OnTriggerStay2D(Collider2D collision)
-    {
-        if (collision.CompareTag("Player") && GameManager.canChangeScene)
-        {
-            GameManager.canChangeScene = false;
-            GameManager.Instance.LoadScene(SceneToLoad);
-        }
-    }
-
-    private void OnTriggerExit2D(Collider2D collision)
+    private void OnTriggerEnter2D(Collider2D collision)
     {
         if (collision.CompareTag("Player"))
         {
-            GameManager.canChangeScene = true;
+            GameManager.Instance.LoadScene(SceneToLoad, spawnLocation);
         }
     }
 }
