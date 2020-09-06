@@ -22,7 +22,7 @@ public class ItemDatabase
                 70,
                 new Dictionary<string, int>
                 {
-                    {"Power", 5}
+                    {"Power", 1}
                 }),
             new Item(
                 1, 
@@ -31,7 +31,8 @@ public class ItemDatabase
                 85,
                 new Dictionary<string, int>
                 {
-                    {"Power", 10}
+                    {"Power", 5},
+                    {"Uses", 1}
                 }),
         };
     }    
