@@ -65,5 +65,10 @@ namespace GandyLabs.MyZelda
             animator.SetFloat("Vertical", lastDirection.y);
             animator.SetFloat("Speed", direction.sqrMagnitude);
         }
+
+        private void CollectItem()
+        {
+            animator.Play("CollectItem");
+        }
     }
 }

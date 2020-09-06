@@ -1,4 +1,5 @@
-﻿using UnityEngine;
+﻿using System.Collections;
+using UnityEngine;
 using UnityEngine.SceneManagement;
 
 namespace GandyLabs.MyZelda
@@ -19,6 +20,18 @@ namespace GandyLabs.MyZelda
         public void LoadScene(string sceneName)
         {
             SceneManager.LoadScene(sceneName);
+        }
+
+        public void Pause(float timeSpan)
+        {
+            StartCoroutine(PauseGame(timeSpan));
+        }
+
+        IEnumerator PauseGame(float timeSpan)
+        {
+            isPaused = true;
+            yield return new WaitForSeconds(timeSpan);
+            isPaused = false;
         }
     }
 }

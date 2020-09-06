@@ -1,12 +1,22 @@
 ﻿using UnityEngine;
 
-public class ItemCollider : MonoBehaviour
+namespace GandyLabs.MyZelda
 {
+    public class ItemCollider : MonoBehaviour
+{
+    public int ItemID;
+
     private void OnTriggerEnter2D(Collider2D other) {
         if (other.CompareTag("Player"))
         {
-            transform.SetParent(other.transform, false);
-            Debug.Log("CollectedItem");
+            float delay = 2.5f;
+            GameManager.Instance.SendMessage("Pause", delay);
+            transform.SetParent(other.transform);
+            transform.position += new Vector3(-.06f, 0, 0);
+            other.GetComponent<Inventory>().AddItem(ItemID);
+            Destroy(gameObject, delay);
+            other.SendMessage("CollectItem");
         }
     }
+}
 }
