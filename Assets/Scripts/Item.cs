@@ -6,6 +6,7 @@ public class Item
 {
     public int id;
     public string title;
+    string[] imagePath = new string[2];
     Sprite image;
     Dictionary<string, int> stats = new Dictionary<string, int>();
 
@@ -13,7 +14,8 @@ public class Item
     {
         this.id = id;
         this.title = title;
-        this.image = Resources.LoadAll<Sprite>(imagePath)[imageIndex];
+        this.imagePath[0] = imagePath;
+        this.imagePath[1] = imageIndex.ToString();
         this.stats = stats;
     }
     
@@ -23,5 +25,9 @@ public class Item
         this.title = item.title;
         this.image = item.image;
         this.stats = item.stats;
+    }
+
+    private void OnEnable() {
+        image = Resources.LoadAll<Sprite>(imagePath[0])[int.Parse(imagePath[1])];
     }
 }

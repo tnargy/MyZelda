@@ -1536,7 +1536,12 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 6032674872298810401, guid: 6f85b559e927f6c4b9bc45171d098490, type: 3}
+      propertyPath: myInventory
+      value: 
+      objectReference: {fileID: 11400000, guid: cd924d47b74868a42b924669acbd6889, type: 2}
+    m_RemovedComponents:
+    - {fileID: 6032674872298810401, guid: 6f85b559e927f6c4b9bc45171d098490, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 6f85b559e927f6c4b9bc45171d098490, type: 3}
 --- !u!1 &1233750900
 GameObject:
@@ -2207,6 +2212,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   playerPosition: {fileID: 11400000, guid: b7de64e8b7fa0424bb789b8071cdfced, type: 2}
   loadPosition: {x: 0, y: -0.8}
+  savedWorldPosition: 1
   SceneToLoad: Underworld
 --- !u!61 &1831528852
 BoxCollider2D:

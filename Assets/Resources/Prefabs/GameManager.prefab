@@ -44,3 +44,4 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isPaused: 0
+  loadPosition: {fileID: 11400000, guid: b7de64e8b7fa0424bb789b8071cdfced, type: 2}

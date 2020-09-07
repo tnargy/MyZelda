@@ -9,6 +9,7 @@ namespace GandyLabs.MyZelda
         float moveSpeed = 1;
         Vector2 lastDirection;
         public VectorValue startingPosition;
+        public Inventory characterInventory;
 
         private void Awake()
         {
@@ -69,6 +70,7 @@ namespace GandyLabs.MyZelda
         private void CollectItem()
         {
             animator.Play("CollectItem");
+            Debug.Log($"Inventory Count: {characterInventory.characterItems.Count}");
         }
     }
 }

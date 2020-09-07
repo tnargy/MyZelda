@@ -7,12 +7,16 @@ namespace GandyLabs.MyZelda
     public class GameManager : MonoBehaviour
     {
         public bool isPaused = false;
+        public VectorValue loadPosition;
 
         public static GameManager Instance { get; private set; }
         private void Awake() 
         {
             if (Instance == null)
+            {
                 Instance = this;
+                LoadScene(loadPosition.savedWorldPosition.ToString());
+            }
             else
                 Destroy(this.gameObject);
         }
