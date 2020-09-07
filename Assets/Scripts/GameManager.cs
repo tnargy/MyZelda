@@ -15,7 +15,8 @@ namespace GandyLabs.MyZelda
             if (Instance == null)
             {
                 Instance = this;
-                LoadScene(loadPosition.savedWorldPosition.ToString());
+                if (SceneManager.GetActiveScene().name != loadPosition.savedWorldPosition.ToString())
+                    LoadScene(loadPosition.savedWorldPosition.ToString());
             }
             else
                 Destroy(this.gameObject);

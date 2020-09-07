@@ -13,7 +13,8 @@ namespace GandyLabs.MyZelda
             if (collision.CompareTag("Player"))
             {
                 playerPosition.initValue = loadPosition;
-                GameManager.Instance.LoadScene(playerPosition.savedWorldPosition.ToString());
+                playerPosition.savedWorldPosition = savedWorldPosition;
+                GameManager.Instance.LoadScene(savedWorldPosition.ToString());
             }
         }
     }
