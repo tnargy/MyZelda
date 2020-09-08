@@ -2213,7 +2213,6 @@ MonoBehaviour:
   playerPosition: {fileID: 11400000, guid: b7de64e8b7fa0424bb789b8071cdfced, type: 2}
   loadPosition: {x: 0, y: -0.8}
   savedWorldPosition: 1
-  SceneToLoad: Underworld
 --- !u!61 &1831528852
 BoxCollider2D:
   m_ObjectHideFlags: 0

@@ -7,7 +7,7 @@ public class Item
     public int id;
     public string title;
     string[] imagePath = new string[2];
-    Sprite image;
+    public Sprite image;
     Dictionary<string, int> stats = new Dictionary<string, int>();
 
     public Item(int id, string title, string imagePath, int imageIndex, Dictionary<string, int> stats)
@@ -27,7 +27,7 @@ public class Item
         this.stats = item.stats;
     }
 
-    private void OnEnable() {
+    public void SetImage() {
         image = Resources.LoadAll<Sprite>(imagePath[0])[int.Parse(imagePath[1])];
     }
 }

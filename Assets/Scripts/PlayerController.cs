@@ -70,7 +70,6 @@ namespace GandyLabs.MyZelda
         private void CollectItem()
         {
             animator.Play("CollectItem");
-            Debug.Log($"Inventory Count: {characterInventory.characterItems.Count}");
         }
     }
 }
